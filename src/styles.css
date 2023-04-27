@@ -1,72 +1,69 @@
 :root {
-    font-family: sans-serif;
-  }
-  * {
-    box-sizing: border-box;
-  }
-  
-  section.colors {
-    padding-left: 2.5rem;
-  }
-  
-  section.colors h1 {
-    font-size: 30px;
-  }
-  
-  section.colors.level2 {
-    font-size: 1rem;
-  }
-  
-  section.colors > header {
-    color: initial;
-  }
-  
-  section.colors > ol {
-    padding: 0;
-  }
-  
-  section.colors.black#suncolors > ul > li {
-    color: initial;
-  }
-  
-  ol.greenstone {
-    list-style-type: upper-roman;
-  }
-  
-  .blue {
-    color: blue;
-  }
-  .pink {
-    color: pink;
-  }
-  .red {
-    color: red;
-  }
-  .orange {
-    color: orange;
-  }
-  .yellow {
-    color: yellow;
-  }
-  .brown {
-    color: brown;
-  }
-  .gray {
-    color: gray;
-  }
-  .teal {
-    color: teal;
-  }
-  .limegreen {
-    color: limegreen;
-  }
-  .green {
-    color: green;
-  }
-
-  .button {
-    background-image: linear-gradient(90deg, #fb3d59, #fed757);
+  font-family: sans-serif;
+}
+* {
+  box-sizing: border-box;
 }
 
+section.colors {
+  padding-left: 2.5rem;
+}
 
-  
+section.colors h1 {
+  font-size: 30px;
+}
+
+section.colors.level2 {
+  font-size: 1rem;
+}
+
+section.colors > header {
+  color: initial;
+}
+
+section.colors > ol {
+  padding: 0;
+}
+
+section.colors.black#suncolors > ul > li {
+  color: initial;
+}
+
+ol.greenstone {
+  list-style-type: upper-roman;
+}
+
+.blue {
+  color: blue;
+}
+.pink {
+  color: pink;
+}
+.red {
+  color: red;
+}
+.orange {
+  color: orange;
+}
+.yellow {
+  color: yellow;
+}
+.brown {
+  color: brown;
+}
+.gray {
+  color: gray;
+}
+.teal {
+  color: teal;
+}
+.limegreen {
+  color: limegreen;
+}
+.green {
+  color: green;
+}
+
+.button {
+  background-image: linear-gradient(90deg, #fb3d59, #fed757);
+}
