@@ -5,17 +5,16 @@
   box-sizing: border-box;
 }
 
-section.colors {
-  padding-left: 2.5rem;
-}
-
+.container {
+    padding-left: 2.5rem;
+  }
 section.colors h1 {
   font-size: 30px;
 }
 
 section.colors.level2 {
   font-size: 1rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
 }
 
 section.colors > header {
