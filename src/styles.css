@@ -63,4 +63,10 @@
   .green {
     color: green;
   }
+
+  .button {
+    background-image: linear-gradient(90deg, #fb3d59, #fed757);
+}
+
+
   
