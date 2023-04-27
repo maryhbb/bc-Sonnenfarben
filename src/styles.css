@@ -4,10 +4,15 @@
 * {
   box-sizing: border-box;
 }
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 .container {
-    padding-left: 2.5rem;
-  }
+  padding-left: 2.5rem;
+}
 section.colors h1 {
   font-size: 30px;
 }
@@ -68,5 +73,5 @@ ol.greenstone {
   background-image: linear-gradient(90deg, #fb3d59, #fed757);
   font-weight: bold;
   border-style: groove;
-  padding: 0.20rem;
+  padding: 0.2rem;
 }
